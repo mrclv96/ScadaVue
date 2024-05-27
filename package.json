@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@infectoone/vue-ganttastic": "^2.1.4",
+    "apexcharts": "^3.36.0",
+    "html2canvas": "^1.4.1",
+    "moment": "^2.29.4",
+    "vue-ganttastic": "^0.9.34",
+    "vuex": "^4.0.2"
+  }
+}

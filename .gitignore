@@ -1,0 +1,11 @@
+#gitignore
+
+# Files and paths to exclude tracking from all child paths
+**/.mono
+**/.DS_Store
+**/*.log
+
+# Files and paths to exclude tracking from ScadaVue
+**/node_modules
+**/dist
+scada/src/main.js
